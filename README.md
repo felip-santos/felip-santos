@@ -3,10 +3,10 @@
 Estudante de Analise e Desenvolvimento de Sistemas
 
 <img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="100%"/>
-
+<center>
 ![Jefferson santos's github stats](https://github-readme-stats.vercel.app/api?username=Jefferson-F-Santos&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-F-Santos&layout=compact&theme=dark&title_color=6bb00b&icon_color=6bb00b&border_color=3d3d3d)](https://github.com/anuraghazra/github-readme-stats)
-
+</center>
 # Technologies that I'm currently using
 
 <img src="https://img.shields.io/badge/Front--end-HTML-orange">
