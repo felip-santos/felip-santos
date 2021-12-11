@@ -4,6 +4,29 @@ Estudante de Analise e Desenvolvimento de Sistemas
 
 <img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="100%"/>
 
+# About ME 💬 :
+
+### - I'm 19 years old and a full stack developer.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/KuroshiD/KuroshiD/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif">
+
+### - Learning:
+
+- ✨ Typescript
+- ✨ C#
+- ✨ Dotnet
+- ✨ Styled Components
+- ✨ Redux
+
+### - Hobbies:
+
+- ✨ Reading Light Novels
+- ✨ Reading mangas/manwhas
+
+</br>
+</br>
+</br>
+
 # Technologies that I'm currently using
 
 <img src="https://img.shields.io/badge/Front--end-HTML-orange">
@@ -14,6 +37,7 @@ Estudante de Analise e Desenvolvimento de Sistemas
 <img src="https://img.shields.io/badge/Unit%20test-Jest-red">
 
 <hr>
+
 
 <div> 
   <a href="https://instagram.com/f_hofstadter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"        target="_blank"></a>
