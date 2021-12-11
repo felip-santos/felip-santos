@@ -1,27 +1,22 @@
 # Jefferson Santos
 
-Estudante de Analise e Desenvolvimento de Sistemas
-
 <img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="100%"/>
 
-# About ME 💬 :
+# About ME:
 
-### - I'm 19 years old and a full stack developer.
+### - I'm 21 years old and a Front-end developer.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/KuroshiD/KuroshiD/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif">
+<img hight="300" width="500" alt="GIF" align="right" src="https://strokingfire.files.wordpress.com/2015/08/giphy-4.gif">
 
 ### - Learning:
 
 - ✨ Typescript
-- ✨ C#
-- ✨ Dotnet
-- ✨ Styled Components
-- ✨ Redux
+- ✨ SASS
 
 ### - Hobbies:
 
-- ✨ Reading Light Novels
 - ✨ Reading mangas/manwhas
+- ✨ Study Physics
 
 </br>
 </br>
@@ -45,7 +40,9 @@ Estudante de Analise e Desenvolvimento de Sistemas
   <a href="https://www.linkedin.com/in/jefferson-felipe-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center" >  
+</br>
+
+<div align="left" >  
   <div style="display:flex;" />
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img src="https://github-readme-stats.vercel.app/api?username=Jefferson-F-Santos&theme=dracula" />
