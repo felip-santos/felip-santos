@@ -9,12 +9,12 @@
 ### - Learning:
 
 - ✨ Typescript
-- ✨ SASS
 
 ### - Hobbies:
 
 - ✨ Reading mangas/manwhas
 - ✨ Study Physics
+- ✨ Play Volleyball
 
 </br>
 </br>
