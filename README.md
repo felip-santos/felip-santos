@@ -1,6 +1,6 @@
 # Jefferson Santos
 
-<img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif" width="100%"/>
 
 # About ME:
 
