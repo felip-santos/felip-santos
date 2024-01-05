@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Front--end-CSS-blue">
   <img src="https://img.shields.io/badge/Front--end-Vanilla JS-yellow">
   <img src="https://img.shields.io/badge/Front--end-ReactJS-blue">
-  <img src="https://img.shields.io/badge/Back--end-Node.js-brightgreen">
-  <img src="https://img.shields.io/badge/Unit%20test-Jest-red">
 </div>
 
 <hr>
