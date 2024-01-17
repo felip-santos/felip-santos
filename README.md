@@ -43,7 +43,7 @@
 <div align="left" >  
   <div style="display:flex;" />
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=Jefferson-F-Santos&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=felip-santos&theme=dracula" />
     </a>
    </div>
 </div>
